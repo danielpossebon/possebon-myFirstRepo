@@ -1,0 +1,8 @@
+Esta lista contém a relação dos links usados.
+Atente-se para o padrão.
+	l1 link
+	l3 descrição
+=======================================================================
+
+www.uol.com.br
+Site de notiícias
