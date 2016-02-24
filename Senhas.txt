@@ -4,3 +4,8 @@ Produção
 url: guaru/
 usr: admin
 psw: mother@2014.let#
+
+Homologação do Branch
+url:guaru/branch1/
+usr: admin
+psw: homol@log.branch1
