@@ -1,0 +1,6 @@
+Aqui estão as senhas para os bancos de dados
+
+Produção
+url: guaru/
+usr: admin
+psw: mother@fucker
